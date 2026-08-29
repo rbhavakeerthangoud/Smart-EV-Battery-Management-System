@@ -11,7 +11,7 @@ The system monitors **battery voltage, current, and temperature** using sensors 
 ---
 
 ## 📌 Overview
-![EV BMS Prototype](images/ev-bms-prototype.jpg)
+![EV BMS Prototype](images/IMG-20250302-WA0006.jpg) 
 
 Electric vehicle batteries require continuous monitoring to maintain safe and reliable operation. The **Smart EV Battery Management System** is designed as an educational prototype that monitors important battery parameters and responds to unsafe conditions.
 
