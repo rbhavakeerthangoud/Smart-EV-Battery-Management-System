@@ -248,6 +248,8 @@ Battery Protection
 Wi-Fi / IoT Communication
         │
         ▼
+Remote Monitoring Dashboard
+
 ## 📁 Project Structure
 
 ```text
@@ -262,6 +264,33 @@ Smart-EV-Battery-Management-System/
 ├── software/          # Software components
 ├── tests/             # Testing documentation
 ├── README.md
-└── LICENSE 
-Remote Monitoring Dashboard
+└── LICENSE
+## 🛠️ Technology Stack
+
+- **Microcontroller:** STM32
+- **Programming Language:** C
+- **Embedded System:** STM32 Firmware
+- **Sensors:** Voltage, Current and Temperature Sensors
+- **Protection:** Relay / Contactor Control
+- **Display:** LCD
+- **Alert System:** Buzzer
+- **Documentation:** Markdown and GitHub
+## ✨ Key Features
+
+- Real-time battery voltage monitoring
+- Battery current monitoring
+- Temperature monitoring
+- LCD display of battery parameters
+- Buzzer alert for unsafe conditions
+- Relay-based protection control
+- Charge and discharge status indication
+- Fire protection monitoring
+## 📌 Project Status
+
+This project was completed as a diploma-level engineering project.
+
+The repository documents the available original project materials, including the STM32 firmware, hardware documentation, project report, prototype image, and supporting documentation.
+
+Some original project-specific source files, such as sensor and LCD library files, are not currently available in this repository.
+
 ### ⭐ If you found this project interesting, consider giving the repository a star!
