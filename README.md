@@ -217,4 +217,10 @@ K. Saisree
 K. Jyoshna
 V. Vaishanavi
 E. Anjali
+
+## 📄 Project Report
+
+The complete diploma project report is available here:
+
+[📥 View the Complete Project Report](EV%20BMS%20WITH%20CHARGE%20MONITOR%20AND%20FIRE%20PROTECTION%20FINAL%20OUT.docx)
 ### ⭐ If you found this project interesting, consider giving the repository a star!
