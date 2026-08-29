@@ -27,3 +27,21 @@ The original source files for these libraries are not currently available in thi
 `SystemClock_Config()` is declared in `main.c`, but its implementation is not included in the source code available from the original project report.
 
 The repository preserves the available original firmware source while documenting the unavailable project-specific dependencies.
+# STM32 Firmware
+
+This folder contains the STM32 firmware for the Smart EV Battery Management System.
+
+## Functions
+
+- Reads battery voltage
+- Reads battery current
+- Monitors battery temperature
+- Displays sensor data
+- Detects unsafe conditions
+- Activates buzzer alert
+- Controls relay protection
+- Supports battery charge and discharge indication
+
+## Main File
+
+`main.c` contains the main control logic of the STM32 system.
