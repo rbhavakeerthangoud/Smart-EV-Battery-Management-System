@@ -248,5 +248,20 @@ Battery Protection
 Wi-Fi / IoT Communication
         │
         ▼
+## 📁 Project Structure
+
+```text
+Smart-EV-Battery-Management-System/
+├── data/              # Sample battery data
+├── docs/              # Project documentation
+├── firmware/
+│   └── stm32/         # STM32 source code
+├── hardware/          # Hardware design and components
+├── images/            # Project images and diagrams
+├── simulation/        # Simulation files
+├── software/          # Software components
+├── tests/             # Testing documentation
+├── README.md
+└── LICENSE 
 Remote Monitoring Dashboard
 ### ⭐ If you found this project interesting, consider giving the repository a star!
