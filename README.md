@@ -88,7 +88,7 @@ Voltage Sensor
 Measures battery voltage
 ACS712 Current Sensor
 Measures charging/discharging current
-DHT11 Sensor
+DHT11 Sensors
 Monitors temperature
 LCD Display
 Displays battery parameters and system status
